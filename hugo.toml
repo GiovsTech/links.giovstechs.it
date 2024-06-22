@@ -1,3 +1,30 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://links.giovstechs.it"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Links.GiovsTechs.dev"
+copyright = "&#169; Copyright GiovsTechs.dev"
+theme = 'lynx'
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  name = "Links.GiovsTechs.dev"
+  headline = "A young developer of 15 years old."
+  image = "img/pic.jpg"  
+
+  links = [
+    { email = "https://gthz.it/em" },
+    { link = "https://gthz.it/" },
+    { discord = "https://gthz.it/ds" },
+    { github = "https://gthz.it/gh" },
+    { gitlab = "https://gthz.it/gl" },
+    { mastodon = "https://gthz.it/ms" },
+    { telegram = "https://gthz.it/mtg" },
+    { youtube = "https://gthz.it/yt" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"

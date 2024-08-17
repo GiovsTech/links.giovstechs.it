@@ -14,14 +14,14 @@ disableKinds = ["taxonomy", "term"]
   image = "img/pic.jpg"  
 
   links = [
-    { email = "https://gthz.it/em" },
-    { link = "https://gthz.it/" },
-    { discord = "https://gthz.it/ds" },
-    { github = "https://gthz.it/gh" },
-    { gitlab = "https://gthz.it/gl" },
-    { mastodon = "https://gthz.it/ms" },
-    { telegram = "https://gthz.it/mtg" },
-    { youtube = "https://gthz.it/yt" },
+    { email = "https://gvts.me/em" },
+    { link = "https://gvts.me/" },
+    { discord = "https://gvts.me/ds" },
+    { github = "https://gvts.me/gh" },
+    { gitlab = "https://gvts.me/gl" },
+    { mastodon = "https://gvts.me/ms" },
+    { telegram = "https://gvts.me/mtg" },
+    { youtube = "https://gvts.me/yt" },
   ]
 
 [module]

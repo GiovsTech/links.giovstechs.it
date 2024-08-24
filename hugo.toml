@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Links.GiovsTechs.dev"
-  headline = "A young developer of 15 years old."
+  headline = "A young developer of 16 years old."
   image = "img/pic.jpg"  
 
   links = [
